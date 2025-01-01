@@ -7,4 +7,6 @@
 
 動かしてみた感想としては、ブレッドボードで鳴らすよりかなり音が良く、特にDAC出力の3.5mmステレオジャックからの出力は期待以上の音質であった
 
+SchematicとPCB-LayoutはAutodesk-Eagle無償版で作成し、elecrowで製造することを念頭にガーバーを作成している
+
 ![DFPlayer-mini board](https://github.com/alpha010101/DFPlayer/blob/master/IMG_20241230_130646461.jpg)
